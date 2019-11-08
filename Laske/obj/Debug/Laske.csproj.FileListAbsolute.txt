@@ -1,0 +1,15 @@
+C:\Users\rohullah1900\source\repos\Laske\Laske\bin\Debug\Laske.exe.config
+C:\Users\rohullah1900\source\repos\Laske\Laske\bin\Debug\Laske.exe
+C:\Users\rohullah1900\source\repos\Laske\Laske\bin\Debug\Laske.pdb
+C:\Users\rohullah1900\source\repos\Laske\Laske\obj\Debug\Laske.csprojAssemblyReference.cache
+C:\Users\rohullah1900\source\repos\Laske\Laske\obj\Debug\MainWindow.g.cs
+C:\Users\rohullah1900\source\repos\Laske\Laske\obj\Debug\App.g.cs
+C:\Users\rohullah1900\source\repos\Laske\Laske\obj\Debug\Laske_MarkupCompile.cache
+C:\Users\rohullah1900\source\repos\Laske\Laske\obj\Debug\Laske_MarkupCompile.lref
+C:\Users\rohullah1900\source\repos\Laske\Laske\obj\Debug\MainWindow.baml
+C:\Users\rohullah1900\source\repos\Laske\Laske\obj\Debug\Laske.g.resources
+C:\Users\rohullah1900\source\repos\Laske\Laske\obj\Debug\Laske.Properties.Resources.resources
+C:\Users\rohullah1900\source\repos\Laske\Laske\obj\Debug\Laske.csproj.GenerateResource.cache
+C:\Users\rohullah1900\source\repos\Laske\Laske\obj\Debug\Laske.csproj.CoreCompileInputs.cache
+C:\Users\rohullah1900\source\repos\Laske\Laske\obj\Debug\Laske.exe
+C:\Users\rohullah1900\source\repos\Laske\Laske\obj\Debug\Laske.pdb

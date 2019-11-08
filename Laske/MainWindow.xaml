@@ -1,0 +1,29 @@
+﻿<Window x:Class="Laske.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Laske"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="_1" Content="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="133,90,0,0" Click="Button_Click" TabIndex="1"/>
+        <Button x:Name="_2" Content="2" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="213,90,0,0" Click="Button_Click" TabIndex="2"/>
+        <Button x:Name="_3" Content="3" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="293,90,0,0" Click="Button_Click" RenderTransformOrigin="1.479,0.732" TabIndex="3"/>
+        <Button x:Name="_9" Content="9" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="293,140,0,0" Click="Button_Click" TabIndex="9"/>
+        <Button x:Name="_8" Content="8" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="213,140,0,0" Click="Button_Click" TabIndex="8"/>
+        <Button x:Name="_6" Content="6" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="293,115,0,0" Click="Button_Click" TabIndex="6"/>
+        <Button x:Name="_5" Content="5" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="213,115,0,0" Click="Button_Click" TabIndex="5"/>
+        <Button x:Name="_7" Content="7" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="133,140,0,0" Click="Button_Click" TabIndex="7"/>
+        <Button x:Name="_4" Content="4" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="133,115,0,0" Click="Button_Click" TabIndex="4"/>
+        <Button x:Name="laske" Content="=" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="213,165,0,0" Click="equal"/>
+        <TextBox x:Name="tulos" HorizontalAlignment="Left" Height="43" Margin="133,42,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="235"/>
+        <Button x:Name="minus" Content="-" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="293,165,0,0" Click="operator_click"/>
+        <Button x:Name="plus" Content="+" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="133,165,0,0" Click="operator_click"/>
+        <Label x:Name="lableCurrentOperation" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="133,10,0,0" Width="85" Height="27"/>
+        <Button x:Name="clear" Content="Tyhjennä" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="213,190,0,0" Click="clearTulos"/>
+        <Button x:Name="kerta" Content="*" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="133,190,0,0" Click="operator_click"/>
+        <Button x:Name="jako" Content="/" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="293,190,0,0" Click="operator_click"/>
+
+    </Grid>
+</Window>
